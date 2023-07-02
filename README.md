@@ -1,6 +1,8 @@
-# wavery-web3
-| Not-Complete| Demo video | When you say Hi 👋, it is deployed and stored on the smart-contract. 
-What did I use? Solidity, ReactJs for programming. What APIs/tools did I use? Quicknode, Hardhat
+# Ethereum Wavery
+| Not-Complete yet(06/2023)| Demo video | 
+When you say Hi 👋, it is deployed and stored on the smart-contract. 
+I used Solidity, ReactJs for programming.
+APIs/tools I use - Quicknode, Hardhat
 
 
 

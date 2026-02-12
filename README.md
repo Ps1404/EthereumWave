@@ -56,6 +56,25 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Ps1404/EthereumWave.git
+git clone [https://github.com/Ps1404/EthereumWave.git](https://github.com/Ps1404/EthereumWave.git)
 cd EthereumWave
 npm install
+```
+
+### 2. Compile & Deploy Smart Contract
+``` bash
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+## For testnet deployment:
+Add your provider URL (QuickNode/Alchemy/Infura) and private key to .env
+Update hardhat.config.js accordingly
+Run: npx hardhat run scripts/deploy.js --network sepolia
+
+### 3. Run Frontend
+```bash
+npm run dev
+Open http://localhost:5173 → connect MetaMask → start waving!
+```
+

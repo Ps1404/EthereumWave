@@ -21,7 +21,7 @@
   </p>
 
   <img 
-    src=https:"//user-images.githubusercontent.com/22251972/228604098-328f98d5-f17a-4b7d-af6c-57e5e5fc6ea6.mp4"
+    src=https://user-images.githubusercontent.com/22251972/228604098-328f98d5-f17a-4b7d-af6c-57e5e5fc6ea6.mp4
     alt="EthereumWave Demo" 
     width="800" 
   />
